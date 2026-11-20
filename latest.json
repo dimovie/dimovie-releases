@@ -1,6 +1,6 @@
 {
   "versionCode": 17,
   "versionName": "0.17",
-  "apk": "https://github.com/dimovie/dimovie-releases/releases/download/v0.17/DiMovie-0.17.apk",
+  "apk": "https://api.github.com/repos/dimovie/dimovie-releases/releases/assets/771502448",
   "notes": "• Mises à jour automatiques : DiMovie propose lui-même les nouvelles versions (Réglages > Aide > Rechercher une mise à jour).\n• Expérience cinéma : bandes-annonces adaptées au film avant de le lancer (Réglages > Lecture).\n• Écran de premier démarrage et rapport de plantage plus complet.\n• Contrôle parental, menu des chaînes, rangées de 7 affiches, badge « Nouveau » discret."
 }
