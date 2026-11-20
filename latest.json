@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18",
-  "apk": "https://api.github.com/repos/dimovie/dimovie-releases/releases/assets/772821331",
-  "notes": "• Codes : un profil sans code s'ouvre directement. Listes IPTV, profils, contrôle parental et sauvegarde demandent le code du profil principal.\n• TV : ExoPlayer par défaut, bascule automatique sur VLC si une chaîne ne passe pas.\n• Navigation : la flèche bas ne se bloque plus dans Films et Séries.\n• Cache limité et nettoyé automatiquement (Réglages > Aide > Vider le cache).\n• Premier démarrage : accueil, guide TV et replay préparés avant de commencer.\n• Plantages et gels remontés automatiquement, et « Signaler un problème » dans Réglages > Aide."
+  "versionCode": 19,
+  "versionName": "0.19",
+  "apk": "https://api.github.com/repos/dimovie/dimovie-releases/releases/assets/773135968",
+  "notes": "• Profils : Listes IPTV, Profils, Contrôle parental, Sauvegarde, Services et réglages techniques réservés au profil principal. Les autres réglages sont propres à chaque profil.\n• Films et Séries : nouvelles rangées « Pour toi » et « Cultes » (titres salués par la critique, renouvelés chaque semaine).\n• Recherche vocale directement dans DiMovie, micro à gauche du champ.\n• Saisie : le clavier ne s'ouvre plus tout seul (OK l'ouvre) et le focus reste dans les fenêtres.\n• Guide TV : la fiche montre le programme de l'aperçu ; le premier Retour ramène sur ce programme.\n• Gestion des profils : badges et cases lisibles sur la ligne sélectionnée."
 }
