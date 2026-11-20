@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "apk": "https://api.github.com/repos/dimovie/dimovie-releases/releases/assets/772493759",
-  "notes": "• Mises à jour automatiques : DiMovie propose lui-même les nouvelles versions (Réglages > Aide > Rechercher une mise à jour).\n• Expérience cinéma : bandes-annonces adaptées au film avant de le lancer (Réglages > Lecture).\n• Écran de premier démarrage et rapport de plantage plus complet.\n• Contrôle parental, menu des chaînes, rangées de 7 affiches, badge « Nouveau » discret."
+  "versionCode": 18,
+  "versionName": "0.18",
+  "apk": "https://api.github.com/repos/dimovie/dimovie-releases/releases/assets/772821331",
+  "notes": "• Codes : un profil sans code s'ouvre directement. Listes IPTV, profils, contrôle parental et sauvegarde demandent le code du profil principal.\n• TV : ExoPlayer par défaut, bascule automatique sur VLC si une chaîne ne passe pas.\n• Navigation : la flèche bas ne se bloque plus dans Films et Séries.\n• Cache limité et nettoyé automatiquement (Réglages > Aide > Vider le cache).\n• Premier démarrage : accueil, guide TV et replay préparés avant de commencer.\n• Plantages et gels remontés automatiquement, et « Signaler un problème » dans Réglages > Aide."
 }
