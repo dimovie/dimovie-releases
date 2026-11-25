@@ -1,6 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19",
-  "apk": "https://api.github.com/repos/dimovie/dimovie-releases/releases/assets/773135968",
-  "notes": "• Profils : Listes IPTV, Profils, Contrôle parental, Sauvegarde, Services et réglages techniques réservés au profil principal. Les autres réglages sont propres à chaque profil.\n• Films et Séries : nouvelles rangées « Pour toi » et « Cultes » (titres salués par la critique, renouvelés chaque semaine).\n• Recherche vocale directement dans DiMovie, micro à gauche du champ.\n• Saisie : le clavier ne s'ouvre plus tout seul (OK l'ouvre) et le focus reste dans les fenêtres.\n• Guide TV : la fiche montre le programme de l'aperçu ; le premier Retour ramène sur ce programme.\n• Gestion des profils : badges et cases lisibles sur la ligne sélectionnée."
+  "versionCode": 20,
+  "versionName": "0.20",
+  "apk": "https://github.com/dimovie/dimovie-releases/releases/download/v0.20/DiMovie-0.20.apk",
+  "sha256": "26d2bb45ba073b87935590b3888b6d4c3f2d1fd0c1a1b0cedac2d944efcfa52d",
+  "notes": "• Onglet Sport : scores, matchs en direct et à venir, résultats de la nuit, classements (football, F1, NBA), phases finales, Formule 1, replay et résumé des matchs, mode sans spoiler. OK sur un match en cours lance la chaîne qui le diffuse.\n• Sports suivis par profil (Réglages > Sport), sections et ordre de la page Sport, du menu et des sports réglables.\n• Guide TV : de nouveau rempli (redirections du fournisseur suivies) ; « Mettre à jour le guide maintenant » avec la raison d'un guide vide.\n• Démarrage et navigation plus fluides : accueil prêt plus vite, Replay préparé en quelques secondes, plus de gel en arrivant sur le Sport.\n• Ajout d'une liste IPTV : cause de l'échec expliquée et détail technique (identifiants masqués).\n• Sécurité : mise à jour installée seulement si elle est authentique ; rapports de plantage masqués et envoyés seulement avec ton accord.\n• Reprise de l'historique quand on change de fournisseur IPTV ; bandeau un mois avant l'expiration de l'abonnement ; lancement au démarrage de la box.\n• À la première ouverture, le guide TV se recharge (une à deux minutes)."
 }
