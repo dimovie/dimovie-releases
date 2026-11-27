@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "apk": "https://github.com/dimovie/dimovie-releases/releases/download/v0.21/DiMovie-0.21.apk",
-  "sha256": "3c6a1dc48700545d2700b886198db56be67cc56577aa007716bee71773da8825",
-  "notes": "• DiMovie en anglais et en espagnol : Réglages > Interface > Langue (résumés et affiches suivent la langue choisie).\n• Recherche : nouvelle rangée « À la TV » avec les émissions en cours et des 2 prochains jours (« psg » trouve le match du soir).\n• Sport : chaîne trouvée pour plus de matchs (NBA sur beIN SPORTS, matchs que le guide titre par les équipes).\n• Sous-titres : position à l'écran réglable (Réglages > Audio et sous-titres) ; sous-titres forcés activés d'office, même mal marqués dans le fichier.\n• TV en direct : plus de blocs ni de gels sur les chaînes 1080i (France 2, TF1…).\n• Films et Séries ne restent plus vides après le reverrouillage d'un profil pendant une lecture."
+ "versionCode": 22,
+ "versionName": "0.22",
+ "apk": "https://github.com/dimovie/dimovie-releases/releases/download/v0.22/Sofo-0.22.apk",
+ "sha256": "8ee28b292408db049f6b631e2dfc94cc6048d2f44326432e2462ae25c0c209f7",
+ "notes": "• DiMovie devient Sofo : nouveau nom, nouveau logo et animation d'ouverture.\n• Expérience cinéma : intro Sofo en 5.1 avant les bandes-annonces, bouton « Lancer le film ».\n• Fiches : âge minimum dans la classification du pays (Tous publics, -12…), aussi sur les émissions TV quand le guide le donne.\n• Profil enfant : icône pouces dans le menu pour refaire son questionnaire de goûts.\n• Retour d'une fiche : l'affiche ouverte reste sélectionnée, même loin dans sa rangée.\n• Sport : chaîne des matchs trouvée en 2 s au lieu de 30 s, matchs en direct en premier dans le bandeau.\n• Gestion des listes revue, démarrage plus rapide."
 }
